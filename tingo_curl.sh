@@ -1,0 +1,1 @@
+curl https://api.tiingo.com/tiingo/daily/1695f08005d84a2982483c36572461cb36f936c1/prices?startDate=2017-12-12&endDate=2019-12-12
